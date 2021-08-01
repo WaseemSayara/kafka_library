@@ -1,2 +1,6 @@
 .idea/
 venv/
+*.xml
+*.html
+TestKafka/__pycache__/
+output.txt
